@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "blank",
+    "slug": "notinstagram",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "9d69a31a-20bb-472e-a937-a1c6d3f00bbb"
+      }
+    },
+    "android": {
+      "package": "com.rafaykhan177.blank"
+    },
+    "owner": "rafaykhan177"
+  }
+}
